@@ -1,0 +1,2 @@
+# NaiveBayesClassifier
+Multinomial Niave Bayes
